@@ -8,7 +8,7 @@
 
 [網站網址](https://pythondiary12.herokuapp.com/)
 
-![]()
+![](https://github.com/chiu123982/pythondiary/blob/master/k)
 
 ## 使用技術
 
